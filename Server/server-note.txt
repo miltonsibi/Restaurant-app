@@ -1,0 +1,12 @@
+
+
+
+                                BackEnd For Restaurant
+                ----------------------------------------------------
+
+            1.Create a folder Server in restaurant-listing-app folder
+            2.Create a package.json file -npm init -y
+            3.Create a rest json services -npm i json-Server
+            4.To connect different port - npm i cors
+            5.Create a .gitingore file and add node_modules in it
+            6.Create Index.js

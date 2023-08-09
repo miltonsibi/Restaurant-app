@@ -1,0 +1,53 @@
+
+
+                                    RESTAURANT LISTING App
+
+            -----------------------------------------------------------------------
+
+        1.Create a new applications:npx create-react-app restaurant-listinga-app
+        2.cd restaurant-listinga-app
+        3.code .
+        4.Run the application: npm start
+        5.clean the code
+        6.Choose a theme using bootswatch and import it into the index.js
+        7.copy and paste fontawesome cdnjs into the index.html
+        8.copy and paste google fonts into the index.css
+        9.Install react bootstrap
+        10.Component Creation -
+                            ->Components
+                                ->Headers
+                                    Header.js
+                                    Footer.js
+        11.BackEnd server Creation
+        12.Api Fetching -axios->
+                                Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). 
+                                On the server-side it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequests.
+
+                                Features
+                            --------------
+                           -> Make XMLHttpRequests from the browser
+                           -> Make http requests from node.js
+                           ->Supports the Promise API
+                           ->Intercept request and response
+                           ->Transform request and response data
+                           ->Automatic JSON data handling in response
+            
+            Install axios->
+            npm i axios
+
+            useEffect-The usedEffect Hook allowsnyou to perform side effects in your components.
+
+            ->Paths Setup
+                    ->React Router Dom - npm i react-router-dom
+
+                    ->Browser Router - Used to setup app routing
+                    ->Routes ->To hold more than one Route (Used to hold multiple components)
+                    ->route -> Used to setup a Component path
+
+            useParams() - React Hook
+            ->In our React app sometimes we want to access the parameters of the current route in 
+            this case useParams hook comes into action.
+            ->The react-router-dom package has useParams hooks that let you access the parameters of the current route.
+
+                    
+
